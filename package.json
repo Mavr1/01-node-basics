@@ -1,0 +1,25 @@
+{
+  "name": "01-node-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mavr1/01-node-basics.git"
+  },
+  "author": "Mavrodii Mykhailo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mavr1/01-node-basics/issues"
+  },
+  "homepage": "https://github.com/Mavr1/01-node-basics#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "yargs": "^15.4.1"
+  }
+}
